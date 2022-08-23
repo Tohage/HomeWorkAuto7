@@ -3,6 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+gradle/
 
 ### STS ###
 .apt_generated
@@ -12,6 +13,10 @@ build/
 .settings
 .springBeans
 .sts4-cache
+.build.gradle
+.gradlew
+.gradlew.bat
+.settings.gradle
 
 ### IntelliJ IDEA ###
 .idea
